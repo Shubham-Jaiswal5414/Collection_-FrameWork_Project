@@ -41,13 +41,15 @@ javac -d out src/org/example/*.java
 java -cp out org.example.UserMangementDemo
 
 
+OUTPUT:
+
 Active users:
 Alice
 Charlie
 All users
-ADMIN ; 1
-USER ; 1
-Manager ; 1
+ADMIN : 1
+USER : 1
+Manager : 1
 
 
 user-management-demo/
